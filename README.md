@@ -18,5 +18,3 @@ Scripts must run from the 1st to the 5th script.
 4. CFAS Misclassified Cases for Neuropathology Features.ipynb: prediction models to show the misclassified cases using the 7 algorithms and show the cluster 	heatmap. Also, prepares clinical data with the 3 clusters and pass the file to be used for clinical signature created by Emmanuel A. Jammeh GitHub 		(https://github.com/emmanueljammeh/cfas). The program returns a file shows the features with their coefficient values that are associated with the three 	clusters (FP, FN, and TP&TN). Lastly, it shows the clinical signature figure.
 
 5. CFAS Misclassified Cases for Top 8 Neuropathology + Selected Clinical Features.ipynb: prediction models to show the misclassified cases using the 7 		algorithms with the top 8 neuropathology and 10 clinical features and show the cluster heatmap. Lastly, shows the held-out 32 cases for top 8 neuropathology and 10 clinical features.
-
-![image](https://user-images.githubusercontent.com/8477744/150014007-5487dea4-8174-4d51-80b4-b8ed5299cea9.png)
