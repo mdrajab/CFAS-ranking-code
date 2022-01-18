@@ -1,13 +1,12 @@
 # CFAS-ranking-code
 CFAS Neuropathological Assessment of Dementia Using Machine Learning Feature Selection (Python Code Scripts)
 
-## Two folders are included: -
+### Two folders are included:
 1. Data: two main files are need to run the scripts (CFAS_NeuropathologyData May 2018.xlsx) and (CFAS_ClinicalData.csv) and the rest of files are already in   		the folder which are needed for the scripts.
 2. Python: consists of 5 scripts
 
-## The python notebook scripts consist of 5 scripts, where each script does certain tasks: -
-### Note: 
-Scripts must run from the 1st to the 5th script.
+### The python notebook scripts consist of 5 scripts, where each script does certain tasks:
+##### Note: Scripts must run from the 1st to the 5th script.
 
 1. CFAS Distribution and Correlation Figures.ipynb: prepare the data for showing distribution and feature correlation.
 
