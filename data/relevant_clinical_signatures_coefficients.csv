@@ -1,0 +1,11 @@
+num,features,Cluster0,Cluster1,Cluster2
+1,Age,-1,1,0.594493054
+2,Parenchymal CAA in Frontal Lobe,0,-0.307638611,0
+3,Brain Weight,0.000890719,-0.588695115,1
+4,GAP,-0.208142957,0.107538387,-0.10860177
+5,GAPd,-0.20814308,0.107538535,-0.10860159
+6,Interval,-0.208142957,0.107538387,-0.10860177
+7,Lewy Bodies in Substantia Nigra,0,0,-0.42932161
+8,Neuronal Loss in Hippocampus,0.23145154,-0.127542049,0
+9,Neuronal Loss in - Substantia Nigra,0,0,-0.987716098
+10,Tangles in Temporal Region,-0.149296115,-0.06815474,-0.211716883
